@@ -1,0 +1,15 @@
+{
+  "alarms": [
+    "example-eu-west-1-cpu-low",
+    "example-eu-west-1-cpu-high"
+  ],
+  "amiNameRegex": "example-[0-9]{4}",
+  "asg": "example-eu-west-1",
+  "instanceType": "t2.small",
+  "region": "eu-west-1",
+  "securityGroup": "sg-12345678",
+  "subnets": [
+    "subnet-e3b532ba",
+    "subnet-18b0f57d"
+  ]
+}

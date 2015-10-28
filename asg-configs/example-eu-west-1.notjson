@@ -1,0 +1,1 @@
+{"region": "eu-west-1", "securityGroup": "sg-12345678", "amiNameRegex": "example-[0-9]{4}", "asg": "callbacks-eu-west-1", "alarms": ["example-eu-west-1-cpu-low", "example-eu-west-1-cpu-high"], "instanceType": "t2.small"}
